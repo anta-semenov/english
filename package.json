@@ -9,15 +9,28 @@
   },
   "dependencies": {
     "expo": "^34.0.1",
+    "majime": "^4.2.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
-    "react-native-web": "^0.11.4"
+    "react-native-web": "^0.11.4",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0"
   },
   "devDependencies": {
     "@types/react": "^16.8.23",
     "@types/react-native": "^0.57.65",
+    "@types/react-redux": "^7.1.2",
     "babel-preset-expo": "^6.0.0",
+    "tslint": "5.14.0",
+    "tslint-consistent-codestyle": "1.13.3",
+    "tslint-eslint-rules": "4.1.1",
+    "tslint-immutable": "4.7.0",
+    "tslint-misc-rules": "3.5.0",
+    "tslint-no-circular-imports": "0.2.0",
+    "tslint-react": "3.2.0",
     "typescript": "^3.4.5"
   },
   "private": true
